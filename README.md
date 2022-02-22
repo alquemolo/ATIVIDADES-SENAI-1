@@ -1,0 +1,3 @@
+# ATIVIDADES-SENAI-1
+eu estava tendo dificuldades com o meu GIT...
+mano a atividade é para HOJE
